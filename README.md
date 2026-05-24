@@ -17,7 +17,8 @@ You can use it on MacOS and Linux. Logo changes with your OS
 * Time
 * Git status
 
-> All of them with spetial color of tablet
+> [!NOTE]
+>  All of them with spetial color of tablet
 
 ## Installation
 ```
@@ -26,4 +27,5 @@ cd starship
 cp starship.toml ~/.config
 ```
 
-> WARNING!!! You need to have nerd font in your system. You should enable this font in your terminal if you install this config on Mac. You shouldn't do it if you use it on Linux
+> [!IMPORTANT]
+>  You need to have nerd font in your system. You should enable this font in your terminal if you install this config on Mac. You shouldn't do it if you use it on Linux
