@@ -22,7 +22,7 @@ You can use it on MacOS and Linux. Logo changes with your OS
 
 ## Installation
 ```
-https://github.com/S0LYER/starship
+git clone https://github.com/S0LYER/starship
 cd starship
 cp starship.toml ~/.config
 ```
