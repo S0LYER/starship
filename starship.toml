@@ -1,7 +1,8 @@
-add_newline = false
+add_newline = true
 
 format = """
 ╭──$os$username$hostname[](fg:#ffffff) $directory
+│
 ╰──$git_branch$git_status$git_state$git_metrics$docker_context$kubernetes$terraform$c$cpp$python$rust$nodejs$go$java$php$ruby$haskell$zig$swift$kotlin$dotnet$bun$deno$lua$cmake$package$character
 """
 
