@@ -78,11 +78,6 @@ symbol = "󰎙 "
 style = "fg:#7f849c"
 format = " [ $symbol($version) ](bg:#7f849c fg:#000000)"
 
-[go]
-symbol = " "
-style = "fg:#7f849c"
-format = " [ $symbol($version) ](bg:#7f849c fg:#000000)"
-
 [cpp]
 symbol = " "
 style = "fg:#7f849c"
