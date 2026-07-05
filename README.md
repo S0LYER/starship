@@ -11,7 +11,7 @@ You can use it on MacOS and Linux. Logo changes with your OS
 * Displaying the work with git and cubernetis
 * Dynamic displaying OS (MacOS/Linux/Windows)
 * Displaying some directories
-* displaying programming languages like python, rust, nodejs, go, C++, C#, C, Lua, etc
+* displaying programming languages like python, rust, nodejs, C++, C#, C, Lua, etc
 * RAM usage
 * Battery
 * Time
