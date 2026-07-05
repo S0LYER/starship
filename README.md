@@ -30,5 +30,7 @@ cp starship.toml ~/.config
 > [!IMPORTANT]
 >  You need to have nerd font in your system. You should enable this font in your terminal if you install this config on Mac. You shouldn't do it if you use it on Linux
 
+---
+
 > [!NOTE]
 > You can use [my fish config](https://github.com/S0LYER/fish) for best experience
