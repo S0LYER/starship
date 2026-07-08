@@ -11,7 +11,7 @@
 
 <h6> You can use it on MacOS and Linux. Logo changes with your OS </h6>
 
-[![License](https://img.shields.io/github/license/ВАШ_НИК/ВАШ_РЕПО?color=orange&style=flat-square)](LICENSE)
+[![License](https://img.shields.io/github/license/S0LYER/starship?color=orange&style=flat-square)](LICENSE)
 <br>
 [![Starship](https://img.shields.io/badge/Starship-Config-FF6B6B?style=flat-square&logo=starship&logoColor=white)](https://starship.rs)
 [![Shell](https://img.shields.io/badge/Shell-Zsh_|_Bash_|_Fish-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)]()
